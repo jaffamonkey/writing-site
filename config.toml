@@ -1,7 +1,7 @@
 baseURL = "https://mullshrimp.xyz"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "mullshrimp"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
